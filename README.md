@@ -45,7 +45,7 @@
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
-![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture3.PNG?raw=true))
+![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture3.PNG?raw=true)
 
 ### การระบายสีด้วย Path Gradient Brush
 
@@ -62,7 +62,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
 
-![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture4.PNG?raw=true))
+![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture4.PNG?raw=true)
 
 
 ###แบบทดสอบ 
@@ -70,4 +70,4 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
-![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture5.PNG?raw=true))
+![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture5.PNG?raw=true)
