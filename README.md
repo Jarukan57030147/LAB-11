@@ -13,12 +13,14 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
 </p>
+![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture.PNG?raw=true)
 
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
  <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
 </p>
+![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture1.PNG?raw=true)
 
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
@@ -26,6 +28,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
+![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture2.PNG?raw=true)
 
 ### การระบายสีด้วย TextureBrush
 * ให้วางคอนโทรล Panel จำนวน 2 ตัวลงบน Form โดยมีชื่อว่า panel1 และ panel2 ตามลำดับ
@@ -42,6 +45,7 @@
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
+![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture3.PNG?raw=true))
 
 ### การระบายสีด้วย Path Gradient Brush
 
@@ -57,6 +61,7 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
+![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture4.PNG?raw=true))
 
 
 ###แบบทดสอบ 
@@ -64,3 +69,4 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+![](![](https://github.com/Jarukan57030147/LAB-11/blob/master/Capture5.PNG?raw=true))
